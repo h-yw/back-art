@@ -57,12 +57,12 @@ Here are some personalized background images created with BackArt:
 
 If you have any questions or suggestions, feel free to contact me:
 
-* Email: 1327603193@qq.com
+* Email: <a href="mailto:1327603193@qq.com">1327603193@qq.com</a>
 * GitHub Issues
 
 ## Special Notes
 
-The current code is not yet optimized and may not provide much learning value. Therefore, the source code is not currently available. However, after optimizing the code and improving its quality, I may consider releasing the source code. If you need the source code or want to build the app yourself, feel free to contact me for the code.
+The current code is not yet optimized and may not provide much learning value. Therefore, the source code is not currently available. However, after optimizing the code and improving its quality, I may consider releasing the source code. If you need the source code or want to build the app yourself, feel free to  <a href="mailto:1327603193@qq.com">contact me</a> for the code.
 
 ## Support
 
