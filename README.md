@@ -43,6 +43,19 @@
 
 ## 示例
 
+这里展示了一些使用 BackArt 创建的个性化背景图片：
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="images/back_art_Color(0xff002574).jpg" height="250px" alt="Color 1">
+  <img src="images/back_art_Color(0xff002c58) (2).jpg" height="250px" alt="Color 2">
+  <img src="images/back_art_Color(0xff278b74).jpg" height="250px" alt="Color 4">
+<img src="images/back_art_Color(0xffff426f).jpg" height="250px" alt="Color 6">
+  <img src="images/back_art_Color(0xff58880b).jpg" height="250px" alt="Color 5">
+ <img src="images/back_art_Color(0xff13291f).jpg" height="250px" alt="Color 3">
+</div>
+
+
+
 ## 联系我
 
 如果你有任何问题或建议，欢迎通过以下方式与我们联系：
