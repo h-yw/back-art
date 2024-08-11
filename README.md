@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="images/brand.png" alt="Higress" width="240" height="72.5">
+    <img src="images/brand.png" alt="BackArt" width="240" height="72.5">
   <br>
 <!--   Easily create personalized background images -->
 </h1>
