@@ -1,4 +1,13 @@
-# BackArt
+<h1 align="center">
+    <img src="images/brand.png" alt="Higress" width="240" height="72.5">
+  <br>
+<!--   Easily create personalized background images -->
+</h1>
+
+<p>
+   English | <a href="README_EN.md">中文</a>
+</p>
+     
 
 **BackArt** is a Flutter-based application that helps you easily create simple yet stylish images, supporting customizable background colors, text, and watermarks. Whether you want to design personalized phone wallpapers or create content for social media, **BackArt** provides you with a convenient creative experience.
 
