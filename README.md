@@ -1,5 +1,13 @@
-# BackArt
+<h1 align="center">
+    <img src="images/brand.png" alt="Higress" width="240" height="72.5">
+  <br>
+<!--   Easily create personalized background images -->
+</h1>
 
+<p>
+   <a href="README_EN.md"> English <a/> | 中文
+</p>
+     
 **BackArt** 是一个基于 Flutter
 开发的应用程序，帮助你轻松创建简约且时尚的图片，支持自定义背景色、文字和水印。无论你是想设计个性化的手机壁纸、或是为社交媒体创建内容，
 **BackArt**都能为你提供便捷的创作体验。
