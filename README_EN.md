@@ -42,6 +42,17 @@
 
 ## Examples
 
+Here are some personalized background images created with BackArt:
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="images/back_art_Color(0xff002574).jpg" height="250px" alt="Color 1">
+  <img src="images/back_art_Color(0xff002c58) (2).jpg" height="250px" alt="Color 2">
+  <img src="images/back_art_Color(0xff278b74).jpg" height="250px" alt="Color 4">
+<img src="images/back_art_Color(0xffff426f).jpg" height="250px" alt="Color 6">
+  <img src="images/back_art_Color(0xff58880b).jpg" height="250px" alt="Color 5">
+ <img src="images/back_art_Color(0xff13291f).jpg" height="250px" alt="Color 3">
+</div>
+
+
 ## Contact Me
 
 If you have any questions or suggestions, feel free to contact me:
